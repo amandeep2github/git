@@ -10,3 +10,6 @@ Amandeep-Singhs-MacBook-Pro:web amandeepsingh$ git branch
 #* L1
   
   master
+  
+ to checkout remote branch 
+ `git checkout -b L1` 
